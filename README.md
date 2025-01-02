@@ -4,7 +4,8 @@
 ### Installation
 
 
-## **1. [Download the archive] from releases and extract it to a convenient folder.**
+## **1. [Download <img width="150" alt="Screenshot" src="https://github.com/user-attachments/assets/e5f1842c-c87c-487e-a9af-9850a18767b6" />
+the archive] from releases and extract it to a convenient folder.**
 ## **2. Run the setup.bat file. It will install and download all necessary packages for > operation.**
 
 ## Features:
